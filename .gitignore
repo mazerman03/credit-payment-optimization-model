@@ -162,7 +162,7 @@ cython_debug/
 
 #data files
 /data/raw/
-
+/data
 #environment files
 .env/
 .conda/
