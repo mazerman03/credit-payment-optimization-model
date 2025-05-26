@@ -162,7 +162,12 @@ cython_debug/
 
 #data files
 /data/raw/
+<<<<<<< Updated upstream
 /data
+=======
+data/
+
+>>>>>>> Stashed changes
 #environment files
 .env/
 .conda/
